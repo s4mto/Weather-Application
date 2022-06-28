@@ -27,14 +27,16 @@
 ## Steps
 
 
-* Step 1:
+### Step 1:
+
 * Design GUI for Weather App
 * Consider Web Scrapping Data Visualisation
 * Consider Web API Data Visualisation
 * UML Design (Making Plan)
 
 
-* Step 2:
+### Step 2:
+
 * Scrapy will be used extracting the data you need from Wikipedia web site.  
 https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_plaatsen_met_stadsrechten
 https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_illerin_n%C3%BCfuslar%C4%B1_(2020)  
@@ -45,7 +47,7 @@ https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population https:/
 * All information should be ordered and stored in DB   
 
 
-* Step 3:
+### Step 3:
 
 * HTTP-Request and API will be used to pull real-time weather information from the website.
 * Weather information of the selected cities is taken from https://openweathermap.org/api site.(You can choose other web sites)
@@ -55,7 +57,8 @@ https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population https:/
 https://openweathermap.org/weather-conditions .
 * All information should be ordered and stored in DB
 
-* Step 4:
+### Step 4:
+
 * Program Main page will contain the following components.
 * Countries
 * Selected Country, Cities, Regions, Populations ordered By Population
@@ -67,9 +70,8 @@ https://openweathermap.org/weather-conditions .
 * Selected City Weather Condition Icon  
 
 
-* Step 5:
+### Step 5:
 * Final presentation 
-
 * GitHub Usage Requirements
 * Each team will have a GitHub repository and each team member will be added as a collaborator. 
 * All tasks should be created as an issue on the issues page.  
