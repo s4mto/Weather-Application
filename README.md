@@ -4,7 +4,7 @@
 
 - In this project, a weather application including city, population and region data in the ***Netherlands***, ***Turkey*** and ***USA*** was made for users.
 - The purpose of this project was to provide users with access to the weather information of your location or the city you want in the ***Netherlands***, ***Turkey*** and ***USA***.
-- n addition, it was to show the region and population data of cities in the ***Netherlands***, ***Turkey*** and ***USA***.
+- In addition, it was to show the region and population data of cities in the ***Netherlands***, ***Turkey*** and ***USA***.
 
 ## How was this project done and what tools were used?
 
