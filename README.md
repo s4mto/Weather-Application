@@ -1,14 +1,26 @@
-# Weather-Application
+## Weather APP
 
-General Info
-* This project will be a Weather Application with a graphical User interface.When the program starts, it should ask to select the country (Netherlands, Turkey or USA). According to the selected country, the provinces should be listed based on the population. User will be able to see the name of the province they chose, the state they are in, the population, weather (as an icon), temperature. With the City search option in the program, it should be able to show the city information and weather conditions.
+# What is this project?
 
-## Tools:
-* Object Oriented Programming (OOP) and Graphical User Interface (GUI) will be used in the project.
-* PyQT5 will be used as GUI
-* Scrapy will be used as Web Scrapping Tool.
-* HTTP-Request and API will be used.
-* PostgreSQL will be used as DBMS.
+- In this project, a weather application including city, population and region data in the ***Netherlands***, ***Turkey*** and ***USA*** was made for users.
+- The purpose of this project was to provide users with access to the weather information of your location or the city you want in the ***Netherlands***, ***Turkey*** and ***USA***.
+- n addition, it was to show the region and population data of cities in the ***Netherlands***, ***Turkey*** and ***USA***.
+
+# How was this project done and what tools were used?
+
+- We completed this project with my other ***3 teammates*** in a period of ***10 days***.
+- We applied ***Agile Scrum methodology*** during the project process. In this way, we were able to control our progress and also exchanged ideas.
+- In the project, we reached the data of the countries by ***Web Scraping*** on ***Wikipedia***, and we reached the weather data using the ***API*** on the ***freeweather site***.
+- We collected our codes with ***branches*** we created on ***Github*** in our repostory on github.
+- We used ***PyQt5 Designer, Python, Trello, VsCode*** and ***GitHub*** in the project.
+
+# My roles in the project:
+- Preparing the database and pulling the data over ***PostgreSQL***,
+- Preparing the region and population data of cities in the ***Netherlands***, ***Turkey*** and ***USA*** by ***Web scraping on Wikipedia***
+
+# Results;
+* I reinforced using ***Web Scraping*** and ***API*** in the project,
+* It helped me develop myself in ***working as a team***.
 
 
 
